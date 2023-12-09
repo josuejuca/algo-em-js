@@ -1,0 +1,1 @@
+console.log('Algo em Js'); // console.log é tipo um print do python
