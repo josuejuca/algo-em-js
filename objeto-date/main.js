@@ -1,3 +1,12 @@
+/*
+Nota
+JavaScript conta meses a partir de 0 para 11:
+
+Janeiro = 0.
+
+Dezembro = 11.
+*/
+
 const data = new Date();
 
 console.log(data.toString()); // pega a hora atual (Sun Dec 10 2023 06:09:25 GMT-0300 (Horário Padrão de Brasília))
